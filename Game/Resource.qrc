@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/desertPic.png</file>
+        <file>images/forestPic.png</file>
+        <file>images/grasslandPic.png</file>
+        <file>images/mountainsPic.png</file>
+        <file>images/swampPic.png</file>
+        <file>images/outpostBlack.png</file>
+        <file>images/outpostBlue.png</file>
+        <file>images/outpostPurple.png</file>
+        <file>images/outpostRed.png</file>
+        <file>images/outpostWhite.png</file>
+        <file>images/minePic.png</file>
+        <file>images/farmPic.png</file>
+        <file>images/fortressPic.png</file>
+        <file>images/sawmillPic.png</file>
+        <file>sounds/backgroundMusic.wav</file>
+        <file>sounds/btnMusic.wav</file>
+        <file>sounds/buildSound.wav</file>
+        <file>images/help.png</file>
+        <file>images/backgroundPic.png</file>
+        <file>images/backgroundPic2.PNG</file>
+    </qresource>
+</RCC>

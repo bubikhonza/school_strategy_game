@@ -1,0 +1,721 @@
+commit 85cc5167446849a94466707a1e62e5be08708c45
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 23:32:02 2019 +0200
+
+    minor
+
+commit 793e2ac3f4cc94363d0db6083954a24f7a32664c
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 22:53:56 2019 +0200
+
+    final
+
+commit 795ef58eb39862215f0be3e736f870363b9e6217
+Merge: 7d6e97a 3fb16b5
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 22:05:04 2019 +0200
+
+    Merge branch 'master' of course-gitlab.tuni.fi:tie-02402-ohj3_2019-2020/bk
+
+commit 7d6e97a58cd44101aafbddcb2fdb0a286c2d1dda
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 22:04:42 2019 +0200
+
+    Unit testing added test cases
+
+commit 3fb16b50b4c297166ec1bb5492afccb42c37862e
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Sun Dec 1 19:34:09 2019 +0200
+
+    remove remove bug
+
+commit db16911a4a6837a14555869fcf0b52dd2a719ad6
+Merge: d71521f 8592cc6
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Sun Dec 1 18:56:48 2019 +0200
+
+    Merge branch 'master' of course-gitlab.tuni.fi:tie-02402-ohj3_2019-2020/bk
+
+commit d71521f7dcd8ff97690a17fcc07a61065c102b9c
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Sun Dec 1 18:56:39 2019 +0200
+
+    bugs
+
+commit 8592cc6442f1cef1bf353cf351acfed616cea2f3
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 18:55:43 2019 +0200
+
+    unit tests
+
+commit 22fd46e4784633d0344bdf8ab2bd42a2b753721a
+Merge: 6bc4299 704e364
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 14:13:09 2019 +0200
+
+    Merge branch 'master' of course-gitlab.tuni.fi:tie-02402-ohj3_2019-2020/bk
+
+commit 6bc42995a0d03a10988f0c84fcc1558c83cd7df2
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 14:13:02 2019 +0200
+
+    minor changes
+
+commit 704e36449a534ddadba9bb6ea0bb43a539a02276
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Sun Dec 1 14:04:33 2019 +0200
+
+    Leaders fixed
+
+commit a66a786830108c2a578d9fd837ed1d94ad7b62b3
+Merge: 8b9c01a ef2f0b7
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 13:43:47 2019 +0200
+
+    Merge branch 'master' of course-gitlab.tuni.fi:tie-02402-ohj3_2019-2020/bk
+
+commit 8b9c01a503f850ba21e13724bec0c8b84c6b97f0
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 13:43:41 2019 +0200
+
+    new unittests
+
+commit ef2f0b7451ab7dd6048f8a01446552ddbfa3d2f6
+Merge: f444237 5f00f60
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Sun Dec 1 13:40:00 2019 +0200
+
+    Merge branch 'master' of course-gitlab.tuni.fi:tie-02402-ohj3_2019-2020/bk
+
+commit f4442379c8924d178678e515dcf96de42bca79d9
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Sun Dec 1 13:39:52 2019 +0200
+
+    leader limit, difficulty
+
+commit 5f00f605e015cb4cccb6f389d6ec4e357c860a31
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 10:46:37 2019 +0200
+
+    added unit test
+
+commit 435039ccbf127c16c1b9495e4d3d0ac689fbe88f
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 03:01:25 2019 +0200
+
+    only 3 workers can now be placed on each tile
+
+commit 9f644a2c1f2be2181c3d46d3f45f44c0a5dd463c
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 02:58:33 2019 +0200
+
+    better calculation of score => with aristocrats
+
+commit 881a9266b8df33e315adc4dc8a95bcfa7482725a
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 02:18:36 2019 +0200
+
+    window is now not resizing after clicking button
+
+commit 0acdb7e6c918aaba8f025f0d6f2c6885f06071a7
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 01:51:59 2019 +0200
+
+    balancing game
+
+commit e0fd6f8c23258b3df4049d3fe84d428ae552e132
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 01:27:03 2019 +0200
+
+    fixed bug with screen update
+
+commit 7d63c9432ff4ae45cee376f0a220e389f492dcdb
+Merge: 11f8b3d 63823d6
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 00:58:20 2019 +0200
+
+    Merge branch 'master' of course-gitlab.tuni.fi:tie-02402-ohj3_2019-2020/bk
+
+commit 11f8b3dbaf6a1a312b5e51e2b43bdd0d106df6a8
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 00:58:14 2019 +0200
+
+    added test case
+
+commit 63823d65db21806644149ea18298e6e45f93dd0a
+Merge: 84aa5a5 eacd32f
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Sun Dec 1 00:57:17 2019 +0200
+
+    balancing
+
+commit 84aa5a5ce109415764f5ca14192e4a087d2e3bb2
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Sun Dec 1 00:53:56 2019 +0200
+
+    balancing and rules
+
+commit eacd32f83323b022ed8e0ae821f6cd8c0b396140
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sun Dec 1 00:35:30 2019 +0200
+
+    workers
+
+commit 158301b73cee9fd4b268a652b98982971357d0eb
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sat Nov 30 23:40:21 2019 +0200
+
+    workers bug
+
+commit 7e3faf1f006f13b63107137eb410f5b95065369d
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sat Nov 30 23:29:46 2019 +0200
+
+    workers bug
+
+commit eaaeadaab3fc84ded204c51758f1cadabb389d71
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Sat Nov 30 18:44:21 2019 +0200
+
+    Aristocrat and other workers
+
+commit afcaf53259b69825e2c0f46f17fd251b6558dda0
+Merge: 83ba8df 1c53a3f
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Sat Nov 30 18:03:29 2019 +0200
+
+    Exceptions Income
+
+commit 83ba8df2379f572d8e566d3d162414e786c9b518
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Sat Nov 30 18:02:10 2019 +0200
+
+    Exceptions
+
+commit 1c53a3f6804dddc426a84bd66719bd7c7669ad07
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sat Nov 30 18:01:08 2019 +0200
+
+    colorful workers
+
+commit e040c13a6b324928e70fd0ac849d7faefa841e64
+Merge: 3ee3778 bee0638
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sat Nov 30 17:36:33 2019 +0200
+
+    Merge branch 'master' of course-gitlab.tuni.fi:tie-02402-ohj3_2019-2020/bk
+
+commit 3ee377879a8eab14cc36ba69fd4c3f30c8df00ec
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sat Nov 30 17:36:24 2019 +0200
+
+    removing workers
+
+commit bee0638c90bb87b7819a96a2bb9a3d49ae2734c8
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Sat Nov 30 17:31:26 2019 +0200
+
+    Income Calculations
+
+commit 6658aec50b440e5c0870598dbb6acfd4c759185d
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Sat Nov 30 03:20:38 2019 +0200
+
+    Workers
+
+commit 00d38dc3f6fe0f3b63082b64029d9842483a83b1
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Sat Nov 30 01:27:58 2019 +0200
+
+    Graphics improvment, Rules, styling
+
+commit 8050861ddea0e5941bff237f8e54155bd1d463f6
+Merge: 89a38d5 8aa87da
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Sat Nov 30 00:15:00 2019 +0200
+
+    Merge branch 'master' of course-gitlab.tuni.fi:tie-02402-ohj3_2019-2020/bk
+
+commit 89a38d56dfb5e1daee43470cb0c45700aab5e73a
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Sat Nov 30 00:14:51 2019 +0200
+
+    redesign
+
+commit 8aa87da3cc3f3a2603ff3d0db4509d9a2fe33de3
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Sat Nov 30 00:12:50 2019 +0200
+
+    minor changes
+
+commit b92843954e6662c121000a8e38ac0e33ed56f94d
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Fri Nov 29 23:15:46 2019 +0200
+
+    unit tests, solved nullptr error
+
+commit d33d70a2aa48b7105355d0d152d82252bdcf61ab
+Merge: 8e67507 ca3a482
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Fri Nov 29 23:00:52 2019 +0200
+
+    Merge branch 'master' of course-gitlab.tuni.fi:tie-02402-ohj3_2019-2020/bk
+
+commit 8e6750722ba290556e5c305e422e2f12287cc9cf
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Fri Nov 29 23:00:37 2019 +0200
+
+    background
+
+commit ca3a4823a32f87739c6075ac469ed378ee67c2b8
+Merge: da8faae 7b08ede
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Fri Nov 29 21:35:06 2019 +0200
+
+    drawing workers
+
+commit da8faae1a3035c5a6450b9e6bc2043bdc3613569
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Fri Nov 29 21:34:35 2019 +0200
+
+    drawing workers
+
+commit 7b08ede0e1218e72a386eb7959d1f0a91700216c
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Fri Nov 29 21:12:30 2019 +0200
+
+    background
+
+commit af2cb68e831749fbf9a3bfd96924e7077637d845
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Fri Nov 29 19:25:27 2019 +0200
+
+    styling code, add help in mapwindow, Calculations
+
+commit c69319ce7dc22e6d58aadc690a7af21a876ef138
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Fri Nov 29 18:29:55 2019 +0200
+
+    added bug reports
+
+commit 62737150c10a053e20fe3b45b04e7af2ce878870
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Fri Nov 29 18:24:51 2019 +0200
+
+    Unit testing v0
+
+commit 13a27a44ceaf64d89deb0dd1143aaaa476c4b7d7
+Merge: 1e99190 e903493
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Fri Nov 29 17:37:36 2019 +0200
+
+    Merge branch 'master' of course-gitlab.tuni.fi:tie-02402-ohj3_2019-2020/bk
+
+commit 1e99190c292a84884cdb924743634e2e944edb67
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Fri Nov 29 17:37:20 2019 +0200
+
+    workers salary music fortress
+
+commit e903493c4a47179c0e54c7fc668cd027936eda92
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Fri Nov 29 17:37:12 2019 +0200
+
+    minor changes, removed unittest default project
+
+commit 7d9169452a677a443f1398c3cfb15b49e9b2e8f5
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Fri Nov 29 12:18:54 2019 +0200
+
+    Background music
+
+commit 70658dd9573b7981f017fcc7bae941aab43d7de3
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Thu Nov 28 23:14:50 2019 +0200
+
+    bug repair
+
+commit a2c15d7cc2d4a69867de697db53a954792c221c5
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Thu Nov 28 22:58:43 2019 +0200
+
+    added basic score calculation => first playable version of game
+
+commit 158c08bea3685ae35a9a38dc93626fae7bba73f3
+Merge: ea31dad 308384c
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Thu Nov 28 22:40:00 2019 +0200
+
+    Merge branch 'master' of course-gitlab.tuni.fi:tie-02402-ohj3_2019-2020/bk
+
+commit ea31dadc8ea9a40da39a8bba6d0c7907c9f4bb4b
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Thu Nov 28 22:39:52 2019 +0200
+
+    added custom placing rules to mapWindow
+
+commit 308384cd131043e279503278f658563e051a7759
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Thu Nov 28 21:55:43 2019 +0200
+
+    workers2
+
+commit 9349a589e49184af8ddc870fa1a6706cb2c2901a
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Thu Nov 28 21:19:59 2019 +0200
+
+    screen is now refreshing after adding object v2
+
+commit 2b005d0d54b02659dda91a19f3da5a094c18771c
+Merge: 5928b30 be914e0
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Thu Nov 28 21:18:42 2019 +0200
+
+    Merge branch 'master' of course-gitlab.tuni.fi:tie-02402-ohj3_2019-2020/bk
+
+commit 5928b30f8b0258fb4a2c0d27cf2caebd3809b1f4
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Thu Nov 28 21:18:30 2019 +0200
+
+    screen is now refreshing after adding object
+
+commit be914e0dd27185b945b609b36fa36226f740598e
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Thu Nov 28 21:17:32 2019 +0200
+
+    workers
+
+commit 21408d1508c2566e8002c47e019d68d250c26e2d
+Merge: 58ceb85 80b5e6e
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Thu Nov 28 19:24:33 2019 +0200
+
+    Merge branch 'master' of course-gitlab.tuni.fi:tie-02402-ohj3_2019-2020/bk
+
+commit 58ceb858f8c03009d31e71b0d4dcb6a32dd7f164
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Thu Nov 28 19:24:26 2019 +0200
+
+    subdirectories
+
+commit 80b5e6ededc8d7b511409dc9ec8a4a4a8abc5322
+Merge: 1c5eaf4 2dc9b56
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Thu Nov 28 19:18:32 2019 +0200
+
+    Calculations
+
+commit 1c5eaf4139173dd54e0839ef60984de1309540fd
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Thu Nov 28 19:08:01 2019 +0200
+
+    resources
+
+commit 2dc9b56780165fbc304951b9cb6c60dd4df7a759
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Thu Nov 28 19:06:41 2019 +0200
+
+    Player score
+
+commit 638a6de88c3b732c5e8bfb60364732d7a506eeb4
+Merge: 5525261 a5e7711
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Thu Nov 28 18:10:11 2019 +0200
+
+    ending game logic, illegal action exception handeling on tile click
+
+commit 5525261d7dc106e0f008415216f3fbb8478b8eaa
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Thu Nov 28 18:08:18 2019 +0200
+
+    ending game logic, illegal action exception handeling on tile click
+
+commit a5e7711f1ce6b37cb611872bf0637cf601679928
+Merge: b1947a8 4c1350b
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Thu Nov 28 16:41:40 2019 +0200
+
+    as
+
+commit b1947a85e3555a4da2c7a07598939f7f5f4ec6fe
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Thu Nov 28 16:40:08 2019 +0200
+
+    not sure
+
+commit 4c1350be18ab6d68c19b08b752d5833899394874
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Thu Nov 28 16:39:34 2019 +0200
+
+    Outposts now have correct color based on owner
+
+commit d1cc2bb9335a4d937c1800b10703b4ebc53cb8cf
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Thu Nov 28 15:57:22 2019 +0200
+
+    resources per day
+
+commit 81b5156933d6b3ad8d4d54003a633e31dd078fb3
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Thu Nov 28 15:02:35 2019 +0200
+
+    Porsim pane
+
+commit f0a08077b05f282e84f33ffee549288baa5eae3e
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Thu Nov 28 13:42:33 2019 +0200
+
+    adding new objects buildings mostly
+
+commit f7b4fce2e4f3c3ec8abcce95ed3bd045404c86b0
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Wed Nov 27 23:24:43 2019 +0200
+
+    drawing Outposts color based on player
+
+commit a30ba6b309442d4f53f1077d4c9611cc88a69914
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Wed Nov 27 22:46:49 2019 +0200
+
+    outposts
+
+commit 6e828b1a5bdab50c822bd9f23f774c0f0ea58838
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Wed Nov 27 22:05:02 2019 +0200
+
+    It works!!
+
+commit dc17dde0d6c34778f133ee7d9680d690685b6780
+Merge: 4a66648 39936ea
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Wed Nov 27 21:53:28 2019 +0200
+
+    done
+
+commit 4a66648f2b3b8415c16cc2021089e5c78fe73b2a
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Wed Nov 27 21:51:38 2019 +0200
+
+    merge conflickt
+
+commit 39936ea57b8bcf7a3aa7662488c95df87464fae3
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Wed Nov 27 21:50:41 2019 +0200
+
+    custom drawing for everything
+
+commit db5a1343c9a026f06a0ea79ba1181051b00efb2e
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Wed Nov 27 21:23:33 2019 +0200
+
+    nothing important
+
+commit a4b6f25999ccf1bce3300ed053c8acb851fea297
+Merge: 7bce899 a956f6a
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Wed Nov 27 21:09:42 2019 +0200
+
+    drawing images to scene
+
+commit 7bce899fd26270c6c279985e99f6b004e01ab1a4
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Wed Nov 27 21:04:11 2019 +0200
+
+    adding outpost, drawing image to the scene
+
+commit a956f6a65d7091bedf8155962d3ef5ffe27936cf
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Wed Nov 27 20:20:37 2019 +0200
+
+    20:20:
+
+commit d0ae22a09e8d4020cf82e524c94f42cd4a935e5d
+Merge: 848aa12 63f84c2
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Wed Nov 27 17:57:52 2019 +0200
+
+    working interaction with map
+
+commit 848aa12f46f5668be29a3887468e8957408267b4
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Wed Nov 27 17:49:57 2019 +0200
+
+    painting on board
+
+commit 63f84c24b772884750b1143ccda1d00d039a57c2
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Wed Nov 27 17:40:35 2019 +0200
+
+    GUI!!!
+
+commit 562be048df38e9cf106f2420add154dff3a50592
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Wed Nov 27 16:00:44 2019 +0200
+
+    Swamp
+
+commit c819938b7b057b0c09de03f3928d29215a18a432
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Wed Nov 27 15:59:38 2019 +0200
+
+    formatting
+
+commit dffd4a144fcdfaa482945bd68efb13636f484528
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Wed Nov 27 15:55:36 2019 +0200
+
+    Mountains and Desert paint
+
+commit f66f2b31640819eba40bc50f749a0a9813d7dafa
+Merge: 0b50a89 6bcdecd
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Wed Nov 27 15:31:45 2019 +0200
+
+    namespace conventions
+
+commit 0b50a8998908d3b7ded2ef1d972d58f633851bf1
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Wed Nov 27 15:21:13 2019 +0200
+
+    asd
+
+commit 6bcdecdec4b6f2cd2b4d3dacf2656ccb3210c351
+Merge: ef5d5df fb310b9
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Wed Nov 27 15:18:20 2019 +0200
+
+    head
+
+commit ef5d5dffcb7b97a35156daf3a4659183f56b595b
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Wed Nov 27 15:14:27 2019 +0200
+
+    resources
+
+commit fb310b9aece363fe0021a23480cf8a4620e616fb
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Wed Nov 27 15:13:43 2019 +0200
+
+    working new round
+
+commit b49895e1db2b99be3f0730f4829c89305a95c92a
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Wed Nov 27 13:46:35 2019 +0200
+
+    desert
+
+commit 8adf2f58a48ec83741caa29c8cf7a8e8d26235db
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Wed Nov 27 13:33:49 2019 +0200
+
+    buttons labels and so on
+
+commit af4078377068dbd41bbb501318d900f1175a041b
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Wed Nov 27 09:53:48 2019 +0200
+
+    better drawWorld
+
+commit 1cd16eecb93f6786685330ea0696ee85d75de980
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Wed Nov 27 00:24:22 2019 +0200
+
+    FIRST WORKING VERSION
+
+commit a48fc1a292fbf67ad0ec759416014a891e6deac3
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Wed Nov 27 00:07:19 2019 +0200
+
+    new_updated_version1
+
+commit 690d9a32614fb7d2bb730f64eec0ce8912c43379
+Merge: 08517d5 4987e2f
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Tue Nov 26 19:47:01 2019 +0200
+
+    asd
+
+commit 08517d5e5e286e201a1a133b3ec39023ad3014c0
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Tue Nov 26 18:59:49 2019 +0200
+
+    try to solve bad_func_call
+
+commit 4987e2f0b6282f6b42a59fe34fe879d63d03dda0
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Tue Nov 26 18:00:31 2019 +0200
+
+    desert
+
+commit 15eff0f91a10938af820b3afe0468b6e94c81152
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Tue Nov 26 16:36:07 2019 +0200
+
+    GameEventHandler, dynamic cast
+
+commit 1c8a44aa1c625452d3608ede8d27de74b73e453e
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Tue Nov 26 16:27:57 2019 +0200
+
+    GameEventHandler
+
+commit 8aaa50cd427b572c623ffb24492b0456e66cfdba
+Merge: fab93e3 c424319
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Tue Nov 26 15:43:41 2019 +0200
+
+    Merge branch 'master' of course-gitlab.tuni.fi:tie-02402-ohj3_2019-2020/bk
+
+commit fab93e3bdf670cdbc35dae6d959e56ce814002af
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Tue Nov 26 15:43:13 2019 +0200
+
+    ObjectManager
+
+commit c424319dff0a17a6431b1c4423ac3974331c13ca
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Tue Nov 26 15:42:50 2019 +0200
+
+    iHandler
+
+commit 915706ea1881a75dcbe487586727d5098d2214c4
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Tue Nov 26 11:34:34 2019 +0200
+
+    v3
+
+commit 9768d553004880bedd1b14457bf48cb9eb6d3e0f
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Mon Nov 25 23:59:50 2019 +0200
+
+    version 2
+
+commit 07994977436fdfff150e227f512a8ad0c83fe050
+Author: dubinek01 <bubikhonza@gmail.com>
+Date:   Mon Nov 25 18:44:48 2019 +0200
+
+    worldgenerator
+
+commit 9bdafbb8b2a814f5ff70f2eb3e701905decd6436
+Author: Dan Kunz <dan.kunz@tuni.fi>
+Date:   Mon Nov 25 17:10:22 2019 +0200
+
+    menu
+
+commit d4a2869537a288393db73bb18e6782fec19bc4c2
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Wed Sep 18 16:39:09 2019 +0300
+
+    Updated submodule
+
+commit c6d9f052ec162bdbd5727cd0a626df3affb5f755
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Wed Sep 18 12:26:56 2019 +0300
+
+    Updated submodule
+
+commit 96f7202a43b1ded03a4b6cca8d30091513c5bec4
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Wed Sep 18 11:32:35 2019 +0300
+
+    Initial commit with Project structure.

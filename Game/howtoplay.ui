@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>HowToPlay</class>
+ <widget class="QDialog" name="HowToPlay">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>492</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">*{
+font-size:18px;
+font-family: &quot;fantasy&quot;;
+background:#E2CDBB;
+color:#552800
+}
+QPushButton:pressed { background-color: #796A5D; }
+QPushButton
+{
+height:25px;
+width:120px;
+color:#552800;
+border-radius:15px;
+background:#cd853f;
+border-style: solid;
+border-width: 2px;
+border-radius: 10px;
+}
+
+
+</string>
+  </property>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>360</y>
+     <width>131</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>OK</string>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="textBrowser">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>10</y>
+     <width>451</width>
+     <height>341</height>
+    </rect>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'fantasy'; font-size:18px; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:18pt; font-weight:600;&quot;&gt;Game rules&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:18px;&quot;&gt;Game is for 2 to 4 players. If there are more players, game generates bigger map. Player can choose difficulty of the game which generates different surface on map. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:18px;&quot;&gt;-If you want to build a building you have to build an Outpost first. Then building and then workers to the building. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:18px;&quot;&gt;-You can remove workers but can’t destroy buildings.  &lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:18px;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;You can put at maximum 3 workers to your building.&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;Each building has its own cost and production:&lt;br /&gt;&lt;br /&gt;Outpost: 150/200/200/25/0&lt;br /&gt;Fortress: 1500/900/2000/3000/2500  Increase maximum number of leaders by 1&lt;br /&gt;Mine: 300/200/200/200/0&lt;br /&gt;Farm: 50/100/25/0/0&lt;br /&gt;Sawmill: 100/200/200/200/0&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;Production&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;Outpost: --&lt;br /&gt;Fortress: 5/0/0/0/0  &lt;br /&gt;Mine: 4/0/0/4/2&lt;br /&gt;Farm: 1/5/0/0/0&lt;br /&gt;Sawmill: 3/0/5/0/0&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;Each worker has its own recrui&lt;/span&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:18px;&quot;&gt;t&lt;/span&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;ment cost &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman','serif'; font-size:11pt;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;Laborer 10/25&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;Engineer 20/40&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;Leader 40/30&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;Aristocrat 200/ 60&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;Each worker has its own production efectivity&lt;/span&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;(except aristocrat)&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;LABORER 0.25/1.00/0.75/0.50/0.50&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;Engineer 1.25/0.25/0.25/0.25/1.00&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;Leader 2.5x&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;Aristocrat +0.1 influence &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;Each surface has its own stats&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;Grassland 2/5/1/1/0&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;Forest 1/3/5/1/0&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;Desert 3/1/1/3/1&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:11pt;&quot;&gt;Mountains 1/2/2/4/4&lt;br /&gt;Swamp 2/1/2/3/3&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:18px; font-weight:600;&quot;&gt;How the game ends:&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:18px;&quot;&gt;Game ends when there are no free tiles left. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:18px; font-weight:600;&quot;&gt;Final Score:&lt;/span&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:18px;&quot;&gt; 3 points for each fortress other buildings except outposts are for 1 point. Aristocrat gives 0.1 points per round (if he doesn’t get money and food you don’t receive bonus points this turn)&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:14pt; font-weight:600;&quot;&gt;Game controls&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Algerian'; font-size:18px;&quot;&gt;Each time you want to do an action, press a button in the right panel and then click on the tile where you want to do the action. When you finish your turn press button end turn and next player can do his actions. At the beginning of each turn you receive resources and you can do another actions.&lt;/span&gt;&lt;span style=&quot; font-size:18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
